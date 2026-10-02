@@ -8,11 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bd9cd37-6e5e-4693-bcf4-f179ecd9fe87" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ImageToASCII/AsciiCamera.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ImageToASCII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ImageToASCII/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Application/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Application/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ImageToASCII/Converter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ImageToASCII/Converter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ImageToASCII/ImageToASCII.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ImageToASCII/ImageToASCII.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageToASCII/AsciiCamera.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ImageToASCII/AsciiCamera.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +49,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     ".NET Project.Application.executor": "Run",
+    "Publish to folder.Publish Application to folder.executor": "Run",
+    "Publish to folder.Publish ImageToASCII to folder.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "feature/ascii-converter",
     "node.js.detected.package.eslint": "true",
@@ -62,7 +61,15 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected=".NET Project.Application">
+    <configuration name="Publish Application to folder" type="DotNetFolderPublish" factoryName="Publish to folder">
+      <riderPublish configuration="Release" platform="Any CPU" runtime="Portable" target_folder="$PROJECT_DIR$/../../BuildedProjects/AsciiCamera" target_framework="net10.0" uuid_high="-370401681981093601" uuid_low="-5800101168252522328" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Publish ImageToASCII to folder" type="DotNetFolderPublish" factoryName="Publish to folder">
+      <riderPublish configuration="Release" platform="Any CPU" runtime="Portable" target_folder="$PROJECT_DIR$/../../BuildedProjects/AsciiCamera" target_framework="net10.0" uuid_high="7683066383777156292" uuid_low="-5667334200347015430" />
+      <method v="2" />
+    </configuration>
     <configuration name="Application" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -94,7 +101,7 @@
       <workItem from="1790890243487" duration="2394000" />
       <workItem from="1790892653336" duration="39000" />
       <workItem from="1790892706398" duration="180000" />
-      <workItem from="1790947719643" duration="3614000" />
+      <workItem from="1790947719643" duration="4346000" />
     </task>
     <servers />
   </component>

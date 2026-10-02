@@ -42,6 +42,9 @@ public class AsciiCamera
 
     private void InitVideoSource()
     {
+        //todo: remove in future
+        Console.CursorVisible = false;
+        
         Console.WriteLine("InitVideoSource initialize");
         _videoDevices = new FilterInfoCollection(FilterCategory.VideoInputDevice);
         _videoSource = new VideoCaptureDevice(_videoDevices[0].MonikerString);
@@ -55,7 +58,7 @@ public class AsciiCamera
 
     private void NewFrame_ToAscii(object sender, NewFrameEventArgs eventArgs)
     {
-        Console.Clear();
+        Console.SetCursorPosition(0, 0);
 
         var asciiStr = new StringBuilder();
 
