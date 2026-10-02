@@ -13,7 +13,7 @@ public class Converter
     public double FontCorrectionFactor { get; private set; } = 0.55d;
     
     //ASCII symbols
-    public string AsciiChars { get; private set; } = "@#S%?*+;:,. ";
+    public string AsciiChars { get; private set; } = " .,:;+*?%S#@";
 
     //public string AsciiChars { get; private set; } =
     //   "\\$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\\|()1{}[]?-_+~<>i!lI;:,\"^'.` ";

@@ -7,7 +7,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4bd9cd37-6e5e-4693-bcf4-f179ecd9fe87" name="Changes" comment="" />
+    <list default="true" id="4bd9cd37-6e5e-4693-bcf4-f179ecd9fe87" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ImageToASCII/AsciiCamera.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ImageToASCII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ImageToASCII/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Application/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageToASCII/Converter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ImageToASCII/Converter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageToASCII/ImageToASCII.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ImageToASCII/ImageToASCII.csproj" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +22,21 @@
   <component name="DpaMonitoringSettings">
     <option name="autoShow" value="false" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Dragoh54"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Dragoh54/AsciiCamera.git",
+    "accountId": "0ea3f20f-074d-459d-b3a2-f9dff6d7e502"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/679d1154c56f4976a690afef7d317cf512af28/ab/f7f85029/StatusExtensions.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -32,6 +53,7 @@
   "keyToString": {
     ".NET Project.Application.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "feature/ascii-converter",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,6 +94,7 @@
       <workItem from="1790890243487" duration="2394000" />
       <workItem from="1790892653336" duration="39000" />
       <workItem from="1790892706398" duration="180000" />
+      <workItem from="1790947719643" duration="3614000" />
     </task>
     <servers />
   </component>
