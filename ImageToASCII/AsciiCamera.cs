@@ -64,7 +64,7 @@ public class AsciiCamera
 
         {
             using var frame = (Bitmap)eventArgs.Frame.Clone();
-            asciiStr = new StringBuilder(_asciiConverter.ConvertImage(frame, _width));
+            asciiStr.Append(_asciiConverter.ConvertImage(frame, _width));
         }
         
         Console.WriteLine(asciiStr.ToString());

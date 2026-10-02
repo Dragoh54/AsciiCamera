@@ -10,6 +10,7 @@
     <list default="true" id="4bd9cd37-6e5e-4693-bcf4-f179ecd9fe87" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ImageToASCII/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ImageToASCII/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ImageToASCII/AsciiCamera.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ImageToASCII/AsciiCamera.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImageToASCII/Converter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ImageToASCII/Converter.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +102,7 @@
       <workItem from="1790890243487" duration="2394000" />
       <workItem from="1790892653336" duration="39000" />
       <workItem from="1790892706398" duration="180000" />
-      <workItem from="1790947719643" duration="4346000" />
+      <workItem from="1790947719643" duration="5478000" />
     </task>
     <servers />
   </component>
