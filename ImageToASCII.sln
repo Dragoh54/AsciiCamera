@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageToASCII", "ImageToASCII\ImageToASCII.csproj", "{6A9FBC2B-5EC8-4CC4-B159-959254E4C6FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{FADC11A1-F94F-491F-AF81-E6B7BCFAF0A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A9FBC2B-5EC8-4CC4-B159-959254E4C6FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A9FBC2B-5EC8-4CC4-B159-959254E4C6FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A9FBC2B-5EC8-4CC4-B159-959254E4C6FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A9FBC2B-5EC8-4CC4-B159-959254E4C6FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FADC11A1-F94F-491F-AF81-E6B7BCFAF0A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FADC11A1-F94F-491F-AF81-E6B7BCFAF0A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FADC11A1-F94F-491F-AF81-E6B7BCFAF0A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FADC11A1-F94F-491F-AF81-E6B7BCFAF0A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
